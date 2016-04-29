@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./depraepositionu00krumgoog_0003.png"; bbox 0 0 919 1346; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 285 315 446 351">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 285 315 446 351">
+     <span class='ocr_line' id='line_1_1' title="bbox 285 315 446 351; baseline 0.019 -5"><span class='ocrx_word' id='word_1_1' title='bbox 285 315 335 351; x_wconf 31' lang='grc' dir='ltr'>ᾖ(</span> <span class='ocrx_word' id='word_1_2' title='bbox 342 322 423 349; x_wconf 52' lang='grc' dir='ltr'>αῖς</span> <span class='ocrx_word' id='word_1_3' title='bbox 433 325 446 349; x_wconf 71' lang='lat' dir='ltr'><em>s</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 372 419 608 653">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 372 419 608 653">
+     <span class='ocr_line' id='line_1_2' title="bbox 372 419 608 653; baseline 0 693"><span class='ocrx_word' id='word_1_4' title='bbox 372 419 608 653; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 356 681 623 706">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 356 681 623 706">
+     <span class='ocr_line' id='line_1_3' title="bbox 356 681 623 706; baseline -0.007 -4"><span class='ocrx_word' id='word_1_5' title='bbox 356 681 443 703; x_wconf 49' lang='lat' dir='ltr'>&amp;arbam</span> <span class='ocrx_word' id='word_1_6' title='bbox 457 681 531 706; x_wconf 58' lang='lat' dir='ltr'>wollent</span> <span class='ocrx_word' id='word_1_7' title='bbox 544 681 623 706; x_wconf 55' lang='lat' dir='ltr'>zimara</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 434 1126 761 1276">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 434 1126 761 1276">
+     <span class='ocr_line' id='line_1_4' title="bbox 434 1126 761 1276; baseline 0 70"><span class='ocrx_word' id='word_1_8' title='bbox 434 1126 761 1276; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
